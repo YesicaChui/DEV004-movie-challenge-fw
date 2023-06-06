@@ -58,7 +58,7 @@ los que trabajes.
 
 ## 3. Consideraciones generales
 
-- Este proyecto se debe resolver en equipos de 3 personas como máximo.
+- Este proyecto se debe resolver individual.
 - Debes elegir y sustentar qué problema o necesidad estás resolviendo con el
   producto que estás diseñando y desarrollando.
 - Debes utilizar los datos de la API de
@@ -67,12 +67,11 @@ los que trabajes.
   [OMDB](http://www.omdbapi.com/) (The Open Movie Database)
   o cualquier otra API que encuentres.
 - Para implementar este proyecto debes elegir un framework entre React o Angular.
-- Intenta pensar en un alcance que, considerando su complejidad y la cantidad de
-  personas en el equipo, permita terminar el proyecto en 3 o 4 semanas.
+- Considerando su complejidad se estima un alcance de 3 a 4 sprints.
 
 ## 4. Objetivos de aprendizaje
 
-Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Piensa en eso al decidir tu estrategia de trabajo.
+Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en tu proyecto. Ten en cuenta eso al decidir tu estrategia de trabajo.
 
 ### HTML
 
@@ -370,63 +369,63 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
   <details><summary>Links</summary><p>
 
-  * [Presentando JSX - Documentación oficial](https://es.reactjs.org/docs/introducing-jsx.html)
+  * [Presentando JSX - Documentación oficial](https://es.react.dev/learn/writing-markup-with-jsx)
 </p></details>
 
 - [ ] **Componentes y propiedades (props)**
 
   <details><summary>Links</summary><p>
 
-  * [Componentes y propiedades - Documentación oficial](https://es.reactjs.org/docs/components-and-props.html)
+  * [Componentes y propiedades - Documentación oficial](https://es.react.dev/learn/passing-props-to-a-component)
 </p></details>
 
 - [ ] **Manejo de eventos**
 
   <details><summary>Links</summary><p>
 
-  * [Manejando eventos - Documentación oficial](https://es.reactjs.org/docs/handling-events.html)
+  * [Manejando eventos - Documentación oficial](https://es.react.dev/learn/responding-to-events)
 </p></details>
 
 - [ ] **Listas y keys**
 
   <details><summary>Links</summary><p>
 
-  * [Listas y keys - Documentación oficial](https://es.reactjs.org/docs/lists-and-keys.html)
+  * [Listas y keys - Documentación oficial](https://es.react.dev/learn/rendering-lists)
 </p></details>
 
 - [ ] **Renderizado condicional**
 
   <details><summary>Links</summary><p>
 
-  * [Renderizado condicional - Documentación oficial](https://es.reactjs.org/docs/conditional-rendering.html)
+  * [Renderizado condicional - Documentación oficial](https://es.react.dev/learn/conditional-rendering)
 </p></details>
 
 - [ ] **Elevación de estado**
 
   <details><summary>Links</summary><p>
 
-  * [Levantando el estado - Documentación oficial](https://es.reactjs.org/docs/lifting-state-up.html)
+  * [Levantando el estado - Documentación oficial](https://es.react.dev/learn/sharing-state-between-components)
 </p></details>
 
 - [ ] **Hooks**
 
   <details><summary>Links</summary><p>
 
-  * [Presentando Hooks - Documentación oficial](https://es.reactjs.org/docs/hooks-intro.html)
+  * [Presentando Hooks - Documentación oficial](https://es.react.dev/reference/react)
 </p></details>
 
 - [ ] **CSS modules**
 
   <details><summary>Links</summary><p>
 
-  * [Adding a CSS Modules Stylesheet - Documentación de Create React App (en inglés)](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+  * [Adding a CSS Modules Stylesheet - Documentación de Create React App (en inglés)](https://vitejs.dev/guide/features.html#css-modules)
 </p></details>
 
 - [ ] **React Router**
 
   <details><summary>Links</summary><p>
 
-  * [Quick Start - Documentación oficial (en inglés)](https://reactrouter.com/web/guides/quick-start)
+  * [Quick Start - Documentación oficial (en inglés)](https://reactrouter.com/en/main/start/tutorial)
 </p></details>
 
 ### Centrado en el usuario
